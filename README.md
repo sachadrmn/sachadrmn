@@ -2,7 +2,7 @@
 
 🌱 Welcome to my profile ! I'm a Web Developper learner 👨‍💻 at Simplon.co, currently based in Boulogne-sur-mer.
 
-## Tools and Languages 🔧 :
+### Tools and Languages 🔧 :
 
 <p>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
