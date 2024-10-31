@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Sacha 👋
 
-<!--
-**sachadrmn/sachadrmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Welcome to my profile ! I'm a Web Developper learner 👨‍💻 at Simplon.co, currently based in Boulogne-sur-mer.
 
-Here are some ideas to get you started:
+## Tools and Languages 🔧 :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
+</p>
+
+### Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sachadiereman/)! 📱
