@@ -9,9 +9,11 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/symfony.png" alt="symfony"/>&nbsp;&nbsp;
 </p>
 
 ### Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sachadiereman/)! 📱
